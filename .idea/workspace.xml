@@ -35,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.DataType.executor": "Run",
-    "Python.Number manipulation & f-string.executor": "Run",
-    "Python.Type conversions.executor": "Run",
-    "Python.mathematical operation.executor": "Run",
-    "Python.print.executor": "Run",
-    "Python.projectDay2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "day2",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.DataType.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Number manipulation &amp; f-string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Type conversions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathematical operation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projectDay2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;day2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="print" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python100Days" />
